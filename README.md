@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Django,Flutter**
 
-- 💬 Ask me about **JSP,Django,C,CPP,Android,Flutter,HTML,CSS**
+- 💬 Ask me about **JSP,Django,C,CPP,Android,HTML,CSS**
 
 - 📫 How to reach me **alansomathew10@gmail.com**
 
