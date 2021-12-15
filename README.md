@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **alansomathew10@gmail.com**
 
+- 📫 How to reach me **+91 9447908235** 
+
 - ⚡ Fun fact **I think am Lazy**
 
 <h3 align="left">Connect with me:</h3>
