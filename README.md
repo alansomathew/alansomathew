@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alanso Mathew</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Backend Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alansomathew10&label=Views&color=blue&style=plastic" alt="alansomathew10" /> </p>
 
