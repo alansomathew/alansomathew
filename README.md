@@ -1,6 +1,5 @@
 ### Hello , I'm Alanso Mathew!👋
 
--
 - 👀 I’m learned JSP and Android
 - 🌱 I’m currently learning  Python Django
 - ✨ I’m currently learning  Flutter
