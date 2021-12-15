@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alansomathew10@gmail.com**
 
-- ⚡ Fun fact **I think am Lazy**
+- ⚡ Fun fact **I think am Lazy Guy 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
