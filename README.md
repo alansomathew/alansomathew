@@ -1,11 +1,11 @@
 ### Hello , I'm Alanso Mathew!👋
 
-
-- 👋 Hi, I’m @alansomathew10
-- 👀 I’m interested in  jsp and android
-- 🌱 I’m currently learning  android
+-
+- 👀 I’m learned JSP and Android
+- 🌱 I’m currently learning  Python Django
+- ✨ I’m currently learning  Flutter
 - 📫 How to reach me - alansomathew10@gmail.com
--   Contact - +919447908235
+- 📱 Contact - +919447908235
 
 <!---
 alansomathew10/alansomathew10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
