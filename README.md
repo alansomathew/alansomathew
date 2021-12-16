@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/14876126/alanso-mathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14876126/alanso-mathew" height="30" width="40" /></a>
 <a href="https://fb.com/alansomathew10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alansomathew10" height="30" width="40" /></a>
 <a href="https://instagram.com/aba.d_don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aba.d_don" height="30" width="40" /></a>
-<a href="https://discord.gg/alansoMathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alansoMathew" height="30" width="40" /></a>
+<a href="https://discord.gg/alansoMathew#5558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alansoMathew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
