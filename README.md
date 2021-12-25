@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **+91 9447908235** 
 
-- 📄 Know about my experiences and Projects [https://alansomathew10.github.io/alansomathew/](https://alansomathew10.github.io/alansomathew/)
+- 📄 Know about my experiences and Projects [https://alansomathew.github.io/alansomathew/](https://alansomathew.github.io/alansomathew/)
 
 - ⚡ Fun fact **I think am Lazy**
 
