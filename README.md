@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **+91 9447908235** 
 
-- ⚡ Fun fact is: **I think am Lazy**
+- 📄 Know about my experiences and Projects [https://alansomathew10.github.io/alansomathew/](https://alansomathew10.github.io/alansomathew/)
 
-
+- ⚡ Fun fact **I think am Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
