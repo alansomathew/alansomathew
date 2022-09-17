@@ -31,9 +31,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=alansomathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alansomathew&theme=dark&hide_border=false)<br/>
-<a href="https://github.com/iampawan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alansomathew&theme=light&hide_langs_below=1" />
-</a>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alansomathew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
