@@ -1,5 +1,27 @@
+
+
+<h1 align="center">Hi 👋, I'm Alanso Mathew</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alansomathew&label=Profile%20views&color=0e75b6&style=flat" alt="alansomathew" /> </p>
+
+<p align="left"> <a href="https://twitter.com/alansomathew" target="blank"><img src="https://img.shields.io/twitter/follow/alansomathew?logo=twitter&style=for-the-badge" alt="alansomathew" /></a> </p>
+
 # 💫 About Me:
-🔭 I’m currently working on CHRIST InfoTech<br><br>🌱 I’m currently learning Flutter,Django<br><br>👨‍💻 All of my projects are available at https://alansomathew.github.io/resume/<br><br>💬 Ask me about Django,HTML,CSS,JavaScript,Bootstrap,PHP,JSP<br><br>📫 How to reach me alansomathew10@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing<br><br>⚡ Fun fact I think iam a Workholic
+
+- 🔭 I’m currently working on [CHRIST InfoTech](http://christinfotech.org)
+
+- 🌱 I’m currently learning **Flutter,Django**
+
+- 👨‍💻 All of my projects are available at [https://alansomathew.github.io/resume/](https://alansomathew.github.io/resume/)
+
+- 💬 Ask me about **Django,HTML,CSS,JavaScript,Bootstrap,PHP,JSP**
+
+- 📫 How to reach me **alansomathew10@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing](https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing)
+
+- ⚡ Fun fact **I think iam a Workholic**
 
 
 # 💻 Tech Stack:
