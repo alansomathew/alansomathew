@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing](https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing)
 
-- ⚡ Fun fact **I think iam a Workholic**
+- ⚡ Fun fact **I think i am Workholic**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alanso.mathew.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aba.d_don) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alanso-mathew-839b091b8) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/alanso-mathew-839b091b8) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alansomathew) 
