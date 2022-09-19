@@ -13,13 +13,11 @@
 
 - 🌱 I’m currently learning **Flutter,Django**
 
-- 👨‍💻 All of my projects are available at [https://alansomathew.github.io/resume/](https://alansomathew.github.io/resume/)
-
 - 💬 Ask me about **Django,HTML,CSS,JavaScript,Bootstrap,PHP,JSP**
 
 - 📫 How to reach me **alansomathew10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing](https://drive.google.com/file/d/10Ur2WNmHK7ERiQJqNjHr-CjrnU1oUAWD/view?usp=sharing)
+- 📄 Know about my experiences  [https://alansomathew.github.io/resume/](https://alansomathew.github.io/resume/)
 
 - ⚡ Fun fact **is 'am a movieholic**
 
