@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on [CHRIST InfoTech](http://christinfotech.org)
+- 🔭 I’m currently working on @CHRISTInfotech
 
 - 🌱 I’m currently learning **Flutter,Django**
 
