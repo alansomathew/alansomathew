@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Flutter,Django**
 
-- 💬 Ask me about **Django,HTML,CSS,JavaScript,Bootstrap,PHP,JSP**
+- 💬 Ask me about **Django,HTML,CSS,JavaScript,Bootstrap,Python**
 
 - 📫 How to reach me **alansomathew10@gmail.com**
 
