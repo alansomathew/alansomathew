@@ -28,6 +28,8 @@
 
 - Currently learning New Technology by Self
 
+- Aspiring full-stack developer
+
 - I’m currently working on [CHRIST InfoTech](http://christinfotech.org)
 
 - Know about my experiences [resume](https://alansomathew.github.io/resume/)
