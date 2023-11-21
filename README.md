@@ -22,19 +22,24 @@
       src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=250px>
 </picture>
 
-  <br>
+  <be>
 
 
 
-- Currently learning New Technology by Self
+<ul>
 
-- Aspiring full-stack developer
+<li> 👀 Exploring the realms of software development, specializing in web technologies. From crafting responsive user interfaces to building robust server-side applications, I thrive on the dynamic landscape of web development.</li>
 
-- I’m currently working on [CHRIST InfoTech](http://christinfotech.org)
+<li>🌱 Constantly nurturing my skills in various web development frameworks and tools, always eager to embrace the latest trends and advancements in the ever-evolving world of web tech.</li>
 
-- Know about my experiences [resume](https://alansomathew.github.io/resume/)
+<li>💞️ Eager to collaborate on exciting web projects, contribute to open-source initiatives, or dive into hackathons focused on creating innovative web solutions.</li>
 
-- Fun fact **is 'am a Cineholic**
+<li>📫 Let's connect and forge something extraordinary! Reach out to me via [email](mailto:alansomathew10@gmail.com), on [LinkedIn](https://in.linkedin.com/in/alansomathew), or on [Telegram](https://t.me/alansomathew).</li>
+</ul>
+
+
+
+Let's craft brilliance through code! ✨
 
   <br>
 
