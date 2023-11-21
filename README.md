@@ -26,16 +26,16 @@
 
 
 
-<ul>
 
-<li> 👀 Exploring the realms of software development, specializing in web technologies. From crafting responsive user interfaces to building robust server-side applications, I thrive on the dynamic landscape of web development.</li>
 
-<li>🌱 Constantly nurturing my skills in various web development frameworks and tools, always eager to embrace the latest trends and advancements in the ever-evolving world of web tech.</li>
+-  👀 Exploring the realms of software development, specializing in web technologies. From crafting responsive user interfaces to building robust server-side applications, I thrive on the dynamic landscape of web development.
 
-<li>💞️ Eager to collaborate on exciting web projects, contribute to open-source initiatives, or dive into hackathons focused on creating innovative web solutions.</li>
+- 🌱 Constantly nurturing my skills in various web development frameworks and tools, always eager to embrace the latest trends and advancements in the ever-evolving world of web tech.</li>
 
-<li>📫 Let's connect and forge something extraordinary! Reach out to me via [email](mailto:alansomathew10@gmail.com), on [LinkedIn](https://in.linkedin.com/in/alansomathew), or on [Telegram](https://t.me/alansomathew).</li>
-</ul>
+- 💞️ Eager to collaborate on exciting web projects, contribute to open-source initiatives or dive into hackathons focused on creating innovative web solutions.</li>
+
+- 📫 Let's connect and forge something extraordinary! Reach out to me via [email]( mailto:alansomathew10@gmail.com ), on [LinkedIn](https://in.linkedin.com/in/alansomathew), or on [Telegram](https://t.me/alansomathew).
+
 
 
 
