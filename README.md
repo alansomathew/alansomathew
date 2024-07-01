@@ -309,7 +309,9 @@ Let's craft brilliance through code! ✨
 
 [![](https://github-readme-stats.vercel.app/api?username=alansomathew&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/alansomathew)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=alansomathew&theme=material-palenight)](https://github.com/alansomathew)
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansomathew&langs_count=8&theme=algolia&layout=compact) ](https://github.com/alansomathew)
+![](https://github-contributor-stats.vercel.app/api?username=alansomathew&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansomathew&langs_count=8&theme=algolia&layout=compact) ](https://github.com/alansomathew)
+   
 
 </div>
 
@@ -337,6 +339,7 @@ Let's craft brilliance through code! ✨
 
 <br/>
 <hr/>
+
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
